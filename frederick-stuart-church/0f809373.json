@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "f18861c8"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The lion looks so calm.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://emuseum.colgate.edu/apis/iiif/image/v2/4044",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:261.6376953125,276.58111572265625,335.15570068359375,164.33441162109375"
+      },
+      "id": "0f809373"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "af58b100"
   }
 ]

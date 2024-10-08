@@ -25,10 +25,6 @@ Church have done many marvelous paintings with beauty women sitting or interacti
 
 #Annotate An Image
 .ve-media https://emuseum.colgate.edu/apis/iiif/presentation/v2/1-objects-1129/manifest
-There's a body of water. Could it be a river or a lake?There's a body of water. Could it be a river or a lake?There's a body of water. Could it be a river or a lake?There's a body of water. Could it be a river or a lake?
-There's a body of water. Could it be a river or a lake?
-There's a body of water. Could it be a river or a lake?
-There's a body of water. Could it be a river or a lake?
 
 
 **Taming of the Beast**

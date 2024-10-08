@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Whoops!\n",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://emuseum.colgate.edu/apis/iiif/image/v2/4044",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:129.73770141601562,257.1204833984375,201.09341430664062,185.95736694335938"
+      },
+      "id": "0f809373"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "933471c8"
+  }
+]

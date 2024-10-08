@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This woman is wearing a cream or light yellow gown.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://emuseum.colgate.edu/apis/iiif/image/v2/4044",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:908.1638793945312,151.1680145263672,170.82122802734375,283.26063537597656"
+      },
+      "id": "0f809373"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f18861c8"
+  }
+]

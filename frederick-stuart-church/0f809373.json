@@ -61,5 +61,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "01026e91"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This harp is golden based on how Church painted it.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://emuseum.colgate.edu/apis/iiif/image/v2/4044",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:670.3114013671875,45.21556854248047,168.65899658203125,291.90982818603516"
+      },
+      "id": "0f809373"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d2503558"
   }
 ]

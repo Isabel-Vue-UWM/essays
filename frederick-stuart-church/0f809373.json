@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "af58b100"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "There's a body of water. Could it be a river or a lake?",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://emuseum.colgate.edu/apis/iiif/image/v2/4044",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:23.78524398803711,218.19915771484375,183.79506301879883,110.27703857421875"
+      },
+      "id": "0f809373"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "01026e91"
   }
 ]

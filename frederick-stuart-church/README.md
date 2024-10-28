@@ -34,7 +34,7 @@ Here presents another painting of a woman and a lion. This time, the woman is pl
 #Comparing Visuals
 
 **Lions**
-.ve-media wc:Frederick_Stuart_Church_Idyll_1886_NGA63084.jpg
+.ve-media wc:Frederick_Stuart_Church,_Idyll,_1886,_NGA_63084.jpg
 .ve-media wc:Circe-Frederick_Stuart_Church-1910.9.4_1a_Smithsonian_American_Art_Museum.jpg
 
 **Mythical Women**

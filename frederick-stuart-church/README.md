@@ -38,7 +38,7 @@ Here presents another painting of a woman and a lion. This time, the woman is pl
 .ve-media wc:Circe-Frederick_Stuart_Church-1910.9.4_1a_Smithsonian_American_Art_Museum.jpg
 
 **Mythical Women**
-.ve-media width=800px height=900px
+.ve-media width=500px height=900px
     -  wc:Church,_Frederick_Stuart_-_The_Witch%27s_Daughter_-_1881_-_Smithsonian_American_Art_Museum.jpg
     -  wc:Frederick_Stuart_Church_-_The_Viking%27s_Daughter_-_1929.6.19_-_Smithsonian_American_Art_Museum.jpg
 

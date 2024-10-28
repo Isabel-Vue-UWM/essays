@@ -40,6 +40,7 @@ Here presents another painting of a woman and a lion. This time, the woman is pl
 <br>
 **Lions**
 .ve-media wc:Frederick_Stuart_Church,_Idyll,_1886,_NGA_63084.jpg caption="Idyll, 1886". 
+
 .ve-media wc:Circe-Frederick_Stuart_Church-1910.9.4_1a_Smithsonian_American_Art_Museum.jpg caption="Circe, 1886".
 
 <br>

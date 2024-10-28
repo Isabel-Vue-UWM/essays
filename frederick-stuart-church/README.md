@@ -44,5 +44,5 @@ Here presents another painting of a woman and a lion. This time, the woman is pl
 
 
 **Bears**
-.ve-media weight=100px height=200px wc:Church,_Frederick_Stuart_-_The_Rites_of_Spring.jpg left
+.ve-media weight=800px wc:Church,_Frederick_Stuart_-_The_Rites_of_Spring.jpg left
 .ve-media wc:The_World%27s_almaniac_for_1879_-_a_compendium_of_useless_and_interesting_information_(1878)_(14779102641).jpg right

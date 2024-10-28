@@ -48,7 +48,9 @@ Here presents another painting of a woman and a lion. This time, the woman is pl
     -  wc:Church,_Frederick_Stuart_-_The_Witch%27s_Daughter_-_1881_-_Smithsonian_American_Art_Museum.jpg
     -  wc:Frederick_Stuart_Church_-_The_Viking%27s_Daughter_-_1929.6.19_-_Smithsonian_American_Art_Museum.jpg
 
+
+
 <br>
 **Bears**
-.ve-media weight=800px wc:Church,_Frederick_Stuart_-_The_Rites_of_Spring.jpg left
-.ve-media wc:The_World%27s_almaniac_for_1879_-_a_compendium_of_useless_and_interesting_information_(1878)_(14779102641).jpg right
+.ve-media weight=800px wc:Church,_Frederick_Stuart_-_The_Rites_of_Spring.jpg caption="The Rites of Spring, 1905". left
+.ve-media wc:The_World%27s_almaniac_for_1879_-_a_compendium_of_useless_and_interesting_information_(1878)_(14779102641).jpg caption="A Compendium of Useless and Interesting Information, 1878". right

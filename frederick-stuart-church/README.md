@@ -30,3 +30,18 @@ Church have done many marvelous paintings with beauty women sitting or interacti
 **Taming of the Beast**
 
 Here presents another painting of a woman and a lion. This time, the woman is playing a harp to "tame" the lion. The painting is in panoramic view so that viewers can see a wide-range of the landscape. 
+
+#Comparing Visuals
+
+**Lions**
+.ve-media wc:Frederick_Stuart_Church,_Idyll,_1886,_NGA_63084.jpg
+.ve-media wc:Circe-Frederick_Stuart_Church-1910.9.4_1a_Smithsonian_American_Art_Museum.jpg
+
+**Mythical Women**
+.ve-media wc:Church,_Frederick_Stuart_-_The_Witch%27s_Daughter_-_1881_-_Smithsonian_American_Art_Museum.jpg
+.ve-media wc:Frederick_Stuart_Church_-_The_Viking%27s_Daughter_-_1929.6.19_-_Smithsonian_American_Art_Museum.jpg
+
+
+**Bears**
+.ve-media wc:Church,_Frederick_Stuart_-_The_Rites_of_Spring.jpg left
+.ve-media wc:The_World%27s_almaniac_for_1879_-_a_compendium_of_useless_and_interesting_information_(1878)_(14779102641).jpg right

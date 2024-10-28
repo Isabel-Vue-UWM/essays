@@ -49,6 +49,8 @@ As you can see here, Church again drew paintings of women with lions. Although b
     -  wc:Church,_Frederick_Stuart_-_The_Witch%27s_Daughter_-_1881_-_Smithsonian_American_Art_Museum.jpg
     -  wc:Frederick_Stuart_Church_-_The_Viking%27s_Daughter_-_1929.6.19_-_Smithsonian_American_Art_Museum.jpg
 
+On the right side of these two comparsion is 
+
 
 
 <br>

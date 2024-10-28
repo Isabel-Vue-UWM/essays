@@ -26,8 +26,8 @@ Church have done many marvelous paintings with beauty women sitting or interacti
 - [https://en.wikipedia.org/wiki/Frederick_Stuart_Church](https://en.wikipedia.org/wiki/Frederick_Stuart_Church)  
 - [https://www.nga.gov/collection/artist-info.5729.html](https://www.nga.gov/collection/artist-info.5729.html) 
 
-#Annotate An Image
 <br>
+#Annotate An Image
 .ve-media https://emuseum.colgate.edu/apis/iiif/presentation/v2/1-objects-1129/manifest
 
 
@@ -39,8 +39,8 @@ Here presents another painting of a woman and a lion. This time, the woman is pl
 
 <br>
 **Lions**
-.ve-media wc:Frederick_Stuart_Church,_Idyll,_1886,_NGA_63084.jpg
-.ve-media wc:Circe-Frederick_Stuart_Church-1910.9.4_1a_Smithsonian_American_Art_Museum.jpg
+.ve-media wc:Frederick_Stuart_Church,_Idyll,_1886,_NGA_63084.jpg caption="Idyll, 1886". 
+.ve-media wc:Circe-Frederick_Stuart_Church-1910.9.4_1a_Smithsonian_American_Art_Museum.jpg caption="Circe, 1886".
 
 <br>
 **Mythical Women**

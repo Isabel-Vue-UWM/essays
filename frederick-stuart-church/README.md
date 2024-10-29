@@ -49,8 +49,7 @@ As you can see here, Church again drew paintings of women with lions. Although b
     -  wc:Church,_Frederick_Stuart_-_The_Witch%27s_Daughter_-_1881_-_Smithsonian_American_Art_Museum.jpg
     -  wc:Frederick_Stuart_Church_-_The_Viking%27s_Daughter_-_1929.6.19_-_Smithsonian_American_Art_Museum.jpg
 
-On the LEFT side of these two comparsion is called *The Viking's Daughter.* In this mellow yellow painting, the Viking's daughter appears to be walking some kind of beach while holding a golden arrow. There is also a long trail of white birds following her and brushing her hair with their beaks as if she's some kind of a goddess. Meanwhile, there's only one bird on the RIGHT side. The RIGHT side of 
-
+On the LEFT side of these two comparsion is called *The Viking's Daughter.* In this mellow yellow painting, the Viking's daughter appears to be walking some kind of beach while holding a golden arrow. There is also a long trail of white birds following her and brushing her hair with their beaks as if she's some kind of a goddess. Meanwhile, there's only one bird on the RIGHT side of the comparsion. This grayish purple painting with a woman and an owl sitting on a white crescent moon together is called *The Witch's Daughter*. It appears that she's asking the owl for an advice or perhaps wisdom, since owls are culturally associated with knowledge and erudition. Even though these paintings are opposites to one another, they show some similarities. Besides their interaction with birds, they wore white silky dresses that wave along with the wind. This could symbolizes their innocence and divinity, since each bird from each painting is showing patience and grace towards the daugthers.  
 
 
 <br>

@@ -49,7 +49,7 @@ As you can see here, Church again drew paintings of women with lions. Although b
     -  wc:Church,_Frederick_Stuart_-_The_Witch%27s_Daughter_-_1881_-_Smithsonian_American_Art_Museum.jpg
     -  wc:Frederick_Stuart_Church_-_The_Viking%27s_Daughter_-_1929.6.19_-_Smithsonian_American_Art_Museum.jpg
 
-On the LEFT side of these two comparsion is called *The Viking's Daughter.* In this mellow yellow painting, the Viking's daughter appears to be walking some kind of beach while holding a golden arrow. Not only that, but there is a long trail of birds following her and brushing her hair with their beaks as if she's a goddess. 
+On the LEFT side of these two comparsion is called *The Viking's Daughter.* In this mellow yellow painting, the Viking's daughter appears to be walking some kind of beach while holding a golden arrow. There is also a long trail of white birds following her and brushing her hair with their beaks as if she's some kind of a goddess. Meanwhile, there's only one bird on the RIGHT side. The RIGHT side of 
 
 
 

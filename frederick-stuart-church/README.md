@@ -54,5 +54,6 @@ On the LEFT side of these two comparsion is called *The Viking's Daughter.* In t
 
 <br>
 **Bears**
-.ve-media weight=800px wc:Church,_Frederick_Stuart_-_The_Rites_of_Spring.jpg caption="The Rites of Spring, 1905". left
-.ve-media wc:The_World%27s_almaniac_for_1879_-_a_compendium_of_useless_and_interesting_information_(1878)_(14779102641).jpg caption="A Compendium of Useless and Interesting Information, 1878". right
+.ve-media weight=800px wc:Church,_Frederick_Stuart_-_The_Rites_of_Spring.jpg caption="The Rites of Spring, 1905". right
+.ve-media wc:The_World%27s_almaniac_for_1879_-_a_compendium_of_useless_and_interesting_information_(1878)_(14779102641).jpg caption="A Compendium of Useless and Interesting Information, 1878". left
+These two paintings of bears are so fond to look at. The 

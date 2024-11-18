@@ -68,7 +68,7 @@ Since many of his works were published for various of commerical companies like 
 Some of which were these following items:
 -    Opening of the Season at the North Pole (originally published Harper's Weekly, December 1875)
 -    https://www.posterazzi.com/christmas-polar-bears-nopening-of-the-season-at-the-north-pole-illustration-by-frederick-stuart-church-1875-poster-print-by-granger-collection-item-vargrc0095664/
--    ==[Flapjacks](https://www.si.edu/object/flap-jacks-illustration-harpers-weekly-xxxvi-no-1878-december-17-1892-p-1217:chndm_1938-57-1070-121)=={{https://www.si.edu/object/cover-harpers-bazar-xmas-1897:chndm_1938-57-1070-543}} (Harper's Weekly, December 1892)
+-    ==[Flapjacks](https://www.si.edu/object/flap-jacks-illustration-harpers-weekly-xxxvi-no-1878-december-17-1892-p-1217:chndm_1938-57-1070-121)=={https://www.si.edu/object/cover-harpers-bazar-xmas-1897:chndm_1938-57-1070-543} (Harper's Weekly, December 1892)
 -    A New Year's Greeting (Harper's Young People, January 1, 1889)
 -    Christmas Fun (Harper's Weekly, December 16, 1893)
 -    Santa's Cake Walk (Harper's Bazaar, December 17, 1898)

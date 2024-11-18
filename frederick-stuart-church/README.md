@@ -63,6 +63,6 @@ These two paintings of animal are so fond to look at. One on the LEFT side is an
 
 **The 2003 Exhibition**
 <br>
-Since many of his works were published for various of commerical companies like the [Harper's Weekly](https://harpers.org) and Louis Prang & Company, Art collectors wanted to keep Church's artworks and etchings. Some were kept in the Permanent Collection of the Fulton Decorative Arts Gallery at the Washington County Museum of Fine Arts in Hagerstown, Maryland. Other were at the collection of Dale and Rosie Horst of Newton Kansas, which were later given to the Fulton Gallery to fully complete Church's periodical art exhibition.
+Since many of his works were published for various of commerical companies like the [Harper's Weekly](https://harpers.org) and [Louis Prang & Company](https://prang.com/about/), Art collectors wanted to keep Church's artworks and etchings. Some were kept in the Permanent Collection of the Fulton Decorative Arts Gallery at the [Washington County Museum of Fine Arts](https://wcmfa.org) in Hagerstown, Maryland. Other were bought by [Dale and Rosie Horst](https://kauffman.bethelks.edu/SpecialExhibits/ScenesOfChristmas/Index.html), a couple who lived in Newton Kansas, which were later given to the Fulton Gallery to fully complete [Church's periodical art exhibition](https://www.tfaoi.org/aa/4aa/4aa184.htm).
 
 Some of which were these following items:

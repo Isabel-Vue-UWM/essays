@@ -60,3 +60,8 @@ These two paintings of animal are so fond to look at. One on the LEFT side is an
 
 <br>
 #Add Additional Information
+
+**The 2003 Exhibition**
+Since many of his works were published for various of commerical companies like the Harper's Weekly and Louis Prang & Company, Art collectors wanted to keep Church's artworks and etchings. Some were kept in the Permanent Collection of the Fulton Decorative Arts Gallery at the Washington County Museum of Fine Arts in Hagerstown, Maryland. Other were at the collection of Dale and Rosie Horst of Newton Kansas, which were later given to the Fulton Gallery to fully complete Church's periodical art exhibition.
+
+Some of which were these following items:

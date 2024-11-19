@@ -66,16 +66,12 @@ These two paintings of animal are so fond to look at. One on the LEFT side is an
 Since many of ==Frederick Stuart Church's=={Q3087166} works were published for various of commerical companies like the ==[Harper's Weekly](https://harpers.org)=={Q3127693} and ==[Louis Prang & Company](https://prang.com/about/)=={Q3072064}, Art collectors wanted to keep Church's artworks and etchings. Some were kept in the Permanent Collection of the Fulton Decorative Arts Gallery at the ==[Washington County Museum of Fine Arts](https://wcmfa.org)=={Q7971783} in Hagerstown, Maryland. Other were bought by [Dale and Rosie Horst](https://kauffman.bethelks.edu/SpecialExhibits/ScenesOfChristmas/Index.html), a couple who lived in Newton Kansas, which were later given to the Fulton Gallery to fully complete [Church's periodical art exhibition](https://www.tfaoi.org/aa/4aa/4aa184.htm).
 
 Some of which were these following items:
--    Opening of the Season at the North Pole (originally published Harper's Weekly, December 1875)
--    Flapjacks (Harper's Weekly, December 1892)
--    A New Year's Greeting (Harper's Young People, January 1, 1889)
--    Christmas Fun (Harper's Weekly, December 16, 1893)
--    Santa's Cake Walk (==[Harper's Bazaar](https://www.harpersbazaar.com)=={Q654606}, December 17, 1898)
--    Cold Sauce with the Christmas Pudding (Century Magazine, 1894) 
+-    [Opening of the Season at the North Pole](https://www.posterazzi.com/christmas-polar-bears-nopening-of-the-season-at-the-north-pole-illustration-by-frederick-stuart-church-1875-poster-print-by-granger-collection-item-vargrc0095664/) (originally published Harper's Weekly, December 1875)
+-    [Flapjacks](https://www.si.edu/object/flap-jacks-illustration-harpers-weekly-xxxvi-no-1878-december-17-1892-p-1217:chndm_1938-57-1070-121) (Harper's Weekly, December 1892)
+-    [Christmas Fun](https://www.si.edu/object/christmas-fun-illustration-harpers-weekly-xxxvii-no-1930-december-16-1893-p-1192:chndm_1938-57-1070-115) (Harper's Weekly, December 16, 1893)
+-    [Cold Sauce with the Christmas Pudding](https://www.si.edu/object/cold-sauce-christmas-pudding-illustration-century-magazine-xlix-no-2-december-1894-p-317:chndm_1938-57-1070-124) (Century Magazine, 1894) 
+-    [The Snow Witch's Daugther](https://www.ebay.com/itm/134875831709) (==[Harper's Bazaar](https://www.harpersbazaar.com)=={Q654606}, December 23, 1882)
 
 
 **Sources**
 http://americanartgallery.org/artist/readmore/id/74 
-https://harpers.org 
-https://prang.com/about/
-https://wcmfa.org 

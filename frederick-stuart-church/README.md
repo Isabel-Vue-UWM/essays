@@ -74,4 +74,4 @@ Some of which were these following items:
 
 
 **Sources**
-http://americanartgallery.org/artist/readmore/id/74 
+[http://americanartgallery.org/artist/readmore/id/74 ](http://americanartgallery.org/artist/readmore/id/74)

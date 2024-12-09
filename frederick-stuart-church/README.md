@@ -78,3 +78,6 @@ Some of which were these following items:
 
 <br>
 #Add Footnotes
+
+**The History of Frederick Stuart Church**
+In the beginning, Frederick Stuart Church was born in Grand Rapids, Michigan. His father, who was a well-known lawyer and respected politican, wanted Church to have a business degree. So, at the age of 13, he left school to work at the newly established American Express Company in Chicago. When the Civil War broke out, he was 19 and served in the Union Army. After the war, he returned to Chicago and chose to dedicate his life to art. He began studying drawing with Walter Shirlaw at the city's Academy of Design.

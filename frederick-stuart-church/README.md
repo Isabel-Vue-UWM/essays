@@ -91,10 +91,10 @@ During the 1880s, Church particpated in an art project called *The Hawthorne Por
 Church continued to paint and etch women and animals to emphasized Ameria's beauty, harmony, and music away from the destruction of the Civil War[^5] and the loss of innocence of the Gilded Age [^6]. 
 
 Footnote:
-[^1]:
+[^1]: Anonymous, ["Frederick Stuart Church (1842-1924)"](http://americanartgallery.org/artist/readmore/id/74), American Art Gallery, accessed 2024.
 [^2]:
 [^3]:
-[^4]:
-[^5]:
-[^6]: Elizabeth Stewart, ["Frederick Stuart Church: A True American Artist"](https://elizabethappraisals.com/frederick-stuart-church-a-true-american-artist/), January 21, 2020.
+[^4]: Art Link to the World, ["The Snow Image"](http://www.artlinktotheworld.com/id252.html), Art Link to the World, accessed 2024.
+[^5]: Anthony De Feo, ["Frederick Stuart Church: Painter of Harmony"](https://www.dailyartmagazine.com/frederick-church-painter/), Daily Art Magazine, February 12, 2018.
+[^6]: Elizabeth Stewart, ["Frederick Stuart Church: A True American Artist"](https://elizabethappraisals.com/frederick-stuart-church-a-true-american-artist/), American Association of Appraisers, January 21, 2020.
 

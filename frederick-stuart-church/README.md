@@ -87,7 +87,7 @@ The 1870s was when Church's artistic skills began to soar. When he moved to New 
 
 During the 1880s, Church particpated in an art project called *The Hawthorne Portfolio* to dedicate American author Nathaniel Hawthorne of his twelfth volume set of the collected writings. The publisher and host of this project, *the Riverside Press, Cambridge*, wanted to collect at least twenty-four etchings from Church and other artists like Robert Blum. In 1884, only four of Church's etchings were contirbuted in the publication. One of them is *The Snow Image* (1884), illustrating the same name as Hawthorne's book. [^3]
 
-![The Snow Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artoftheprint.com%2Fartistpages%2Fchurch_frederick_stuart_thesnowimage.htm&psig=AOvVaw0YEQWpgT2WXCHfIPTfE3BH&ust=1733894157820000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCND09Jy5nIoDFQAAAAAdAAAAABAL)[^4]
+![The Snow Image](https://pictures.abebooks.com/inventory/30535794111_2.jpg)[^4]
 
 Church continued to paint and etch women and animals to emphasized Ameria's beauty, harmony, and music away from the destruction of the Civil War[^5] and the loss of innocence of the Gilded Age [^6]. 
 
@@ -95,7 +95,7 @@ Church continued to paint and etch women and animals to emphasized Ameria's beau
 [^1]: Anonymous, ["Frederick Stuart Church (1842-1924)"](http://americanartgallery.org/artist/readmore/id/74), American Art Gallery, accessed December 9, 2024.
 [^2]: Erin Weinman, ["Bears and Pie: The Illustrated Letters of Frederick Stuart Church"](https://www.nyhistory.org/blogs/bears-and-pie-letters-from-frederick-stuart-church), The New York Historical, March 20, 2019.
 [^3]: Greg and Connie Peters, ["Frederick Stuart Church"](https://www.artoftheprint.com/artistpages/church_frederick_stuart_thesnowimage.htm), *The Snow Image*, Art of the Print, accessed December 9, 2024. 
-[^4]: Art Link to the World, ["The Snow Image"](http://www.artlinktotheworld.com/id252.html), Art Link to the World, accessed December 9, 2024.
+[^4]: AbeBooks, ["The House of the Seven Gables and The Snow Image and other twice-told tales"](https://www.abebooks.com/House-Seven-Gables-Snow-Image-twice-told/30535794111/bd), AbeBooks, accessed December 9, 2024.
 [^5]: Anthony De Feo, ["Frederick Stuart Church: Painter of Harmony"](https://www.dailyartmagazine.com/frederick-church-painter/), Daily Art Magazine, February 12, 2018.
 [^6]: Elizabeth Stewart, ["Frederick Stuart Church: A True American Artist"](https://elizabethappraisals.com/frederick-stuart-church-a-true-american-artist/), American Association of Appraisers, January 21, 2020.
 

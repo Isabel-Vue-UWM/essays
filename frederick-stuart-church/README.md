@@ -31,14 +31,6 @@ Some of which were these following items:
 
 
 <br>
-.ve-media width=800px height=900px wc:Frederick_Stuart_Church,_The_Mermaid,_c._1881,_NGA_148040.jpg
-
-<br>
-**The Mermaid (1880)**
-
-Even though it was an etching, there are a few special things about this artwork. The first thing to notice is the mermaid riding the seahorse. It’s an interesting and creative concept of how a mermaid would ride on a seahorse, as if it was similar to riding on a regular horse. You can see how the mermaid wraps its tail with the seahorse’s tail for stability. The title “The Mermaid” is also written in the bottom-left corner of the etching. Noticed how the letters “T”, “R,” and “D” are drawn to match the water ripples.
-
-<br>
 #Women and Beasts
 
 Church have done many marvelous paintings with beauty women sitting or interacting with ferocious beasts. Two of his examples are Lady and the Tiger (1900) and Supremacy (1887). In each painting, there’s a woman in a white dress holding flowers. However, what they do to the flowers is different. In the Lady and the Tiger (1900), the woman creates a flower rope and wraps it around the tiger’s neck. In the Supremacy (1887), the woman is holding one flower with a long stem, while resting her arm against the lion’s neck. The two big cats in each painting are looking at the women, but one is sitting down while the other is walking. Both beasts are showing gentleness and compassion to their women.  
@@ -57,6 +49,16 @@ Here presents another painting of a woman and a lion. This time, the woman is pl
 .ve-media wc:Frederick_Stuart_Church,_Idyll,_1886,_NGA_63084.jpg caption="Idyll, 1886". 
 Again, Church drew more paintings of women with lions. Although both of them were painted in the year, they show different performances. The TOP etching called *Idyll* shows a woman playing a flute at three lions. These look very calm and permissive. The BOTTOM painting called *Circe* shows woman casting some sort of smoke spell towards the sea. Coming out of the are ghostly ladies dancing and swaying.There are four lions this time, but they're behind the main woman, roaring like they're ready to strike on her command. Church's *Idyll* etching seems to show peace and mercy while his *Circe* painting shows preparation and dominance. 
 .ve-media wc:Circe-Frederick_Stuart_Church-1910.9.4_1a_Smithsonian_American_Art_Museum.jpg caption="Circe, 1886".
+
+<br>
+#Other works of art
+<br>
+.ve-media width=800px height=900px wc:Frederick_Stuart_Church,_The_Mermaid,_c._1881,_NGA_148040.jpg
+
+<br>
+**The Mermaid (1880)**
+
+Even though it was an etching, there are a few special things about this artwork. The first thing to notice is the mermaid riding the seahorse. It’s an interesting and creative concept of how a mermaid would ride on a seahorse, as if it was similar to riding on a regular horse. You can see how the mermaid wraps its tail with the seahorse’s tail for stability. The title “The Mermaid” is also written in the bottom-left corner of the etching. Noticed how the letters “T”, “R,” and “D” are drawn to match the water ripples.
 
 <br>
 **Daughters of Magic**

@@ -35,8 +35,8 @@ Some of which were these following items:
 
 Church have done many marvelous paintings with beauty women sitting or interacting with ferocious beasts. Two of his examples are Lady and the Tiger (1900) and Supremacy (1887). In each painting, there’s a woman in a white dress holding flowers. However, what they do to the flowers is different. In the Lady and the Tiger (1900), the woman creates a flower rope and wraps it around the tiger’s neck. In the Supremacy (1887), the woman is holding one flower with a long stem, while resting her arm against the lion’s neck. The two big cats in each painting are looking at the women, but one is sitting down while the other is walking. Both beasts are showing gentleness and compassion to their women.  
 
-.ve-media width=800px height=900px wc:Frederick_Stuart_Church_-_Lady_and_the_Tiger_-_1929.6.15_-_Smithsonian_American_Art_Museum.jpg left 
-.ve-media width=800px height=900px wc:Frederick_Stuart_Church_-_Supremacy-1929.6.17_1_Smithsonian_American_Art_Museum.jpg right
+.ve-media width=800px height=900px wc:Frederick_Stuart_Church_-_Lady_and_the_Tiger_-_1929.6.15_-_Smithsonian_American_Art_Museum.jpg 
+.ve-media width=800px height=900px wc:Frederick_Stuart_Church_-_Supremacy-1929.6.17_1_Smithsonian_American_Art_Museum.jpg 
 
 
 <br>

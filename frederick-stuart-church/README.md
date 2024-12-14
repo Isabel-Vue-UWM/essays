@@ -39,11 +39,11 @@ Church have done many marvelous paintings with beauty women sitting or interacti
      - wc:Frederick_Stuart_Church_-_Lady_and_the_Tiger_-_1929.6.15_-_Smithsonian_American_Art_Museum.jpg
      - wc:Frederick_Stuart_Church_-_Supremacy-1929.6.17_1_Smithsonian_American_Art_Museum.jpg 
 
+<br>
+Here presents another painting of a woman and a lion. This time, the woman is playing a harp to "tame" the lion. The painting is in panoramic view so that viewers can see a wide-range of the landscape. 
 
 <br>
 .ve-media https://emuseum.colgate.edu/apis/iiif/presentation/v2/1-objects-1129/manifest
-
-Here presents another painting of a woman and a lion. This time, the woman is playing a harp to "tame" the lion. The painting is in panoramic view so that viewers can see a wide-range of the landscape. 
 
 <br>
 **More lions!**

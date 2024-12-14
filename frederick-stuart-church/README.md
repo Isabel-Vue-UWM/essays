@@ -46,6 +46,9 @@ Church have done many marvelous paintings with beauty women sitting or interacti
 Here presents another painting of a woman and a lion. This time, the woman is playing a harp to "tame" the lion. The painting is in panoramic view so that viewers can see a wide-range of the landscape. 
 
 <br>
+**More lions!**
+
+<br>
 .ve-media wc:Frederick_Stuart_Church,_Idyll,_1886,_NGA_63084.jpg caption="Idyll, 1886". 
 Again, Church drew more paintings of women with lions. Although both of them were painted in the year, they show different performances. The TOP etching called *Idyll* shows a woman playing a flute at three lions. These look very calm and permissive. The BOTTOM painting called *Circe* shows woman casting some sort of smoke spell towards the sea. Coming out of the are ghostly ladies dancing and swaying.There are four lions this time, but they're behind the main woman, roaring like they're ready to strike on her command. Church's *Idyll* etching seems to show peace and mercy while his *Circe* painting shows preparation and dominance. 
 .ve-media wc:Circe-Frederick_Stuart_Church-1910.9.4_1a_Smithsonian_American_Art_Museum.jpg caption="Circe, 1886".

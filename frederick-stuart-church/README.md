@@ -1,6 +1,19 @@
 .ve-header "The Wonderful World of Frederick Stuart Church" wc:Frederick_Stuart_Church_-_Girl_with_Rabbits_%28Smithsonian_American_Art_%29.jpg 
 
 Frederick Stuart Church was an American artist during the 19th century. He was widely known for his illustrations of fairytales and anthropomorphized animals.  
+<br>
+#The History of Frederick Stuart Church
+<br>
+In the beginning, Frederick Stuart Church was born in Grand Rapids, Michigan. His father, who was a well-known lawyer and respected politican, wanted Church to have a business degree. So, at the age of 13, he left school to work at the newly established American Express Company in Chicago. When the Civil War broke out, he was 19 and served in the Union Army. After the war, he returned to Chicago and chose to dedicate his life to art. He began studying drawing with Walter Shirlaw at the city's Academy of Design.[^1]
+
+The 1870s was when Church's artistic skills began to soar. When he moved to New York City to finish his education at the National Academy of Design, he would make frequent visits to the circus, the Barnum and Bailey's Circus to be excat, and the Central Park Zoo. He admired these animals so much he spent hours studing and sketching animals to perfect his creations.[^2]
+
+During the 1880s, Church particpated in an art project called *The Hawthorne Portfolio* to dedicate American author Nathaniel Hawthorne of his twelfth volume set of the collected writings. The publisher and host of this project, *the Riverside Press, Cambridge*, wanted to collect at least twenty-four etchings from Church and other artists like Robert Blum. In 1884, only four of Church's etchings were contirbuted in the publication. One of them is *The Snow Image* (1884), illustrating the same name as Hawthorne's book. [^3]
+
+![The Snow Image](https://pictures.abebooks.com/inventory/30535794111_2.jpg)[^4]
+
+Church continued to paint and etch women and animals to emphasized Ameria's beauty, harmony, and music away from the destruction of the Civil War[^5] and the loss of innocence of the Gilded Age [^6]. 
+
 
 <br>
 .ve-media width=800px height=900px wc:Frederick_Stuart_Church,_The_Mermaid,_c._1881,_NGA_148040.jpg
@@ -76,20 +89,7 @@ Some of which were these following items:
 **Sources**
 [http://americanartgallery.org/artist/readmore/id/74 ](http://americanartgallery.org/artist/readmore/id/74)
 
-<br>
-#Add Footnotes
 
-**The History of Frederick Stuart Church**
-<br>
-In the beginning, Frederick Stuart Church was born in Grand Rapids, Michigan. His father, who was a well-known lawyer and respected politican, wanted Church to have a business degree. So, at the age of 13, he left school to work at the newly established American Express Company in Chicago. When the Civil War broke out, he was 19 and served in the Union Army. After the war, he returned to Chicago and chose to dedicate his life to art. He began studying drawing with Walter Shirlaw at the city's Academy of Design.[^1]
-
-The 1870s was when Church's artistic skills began to soar. When he moved to New York City to finish his education at the National Academy of Design, he would make frequent visits to the circus, the Barnum and Bailey's Circus to be excat, and the Central Park Zoo. He admired these animals so much he spent hours studing and sketching animals to perfect his creations.[^2]
-
-During the 1880s, Church particpated in an art project called *The Hawthorne Portfolio* to dedicate American author Nathaniel Hawthorne of his twelfth volume set of the collected writings. The publisher and host of this project, *the Riverside Press, Cambridge*, wanted to collect at least twenty-four etchings from Church and other artists like Robert Blum. In 1884, only four of Church's etchings were contirbuted in the publication. One of them is *The Snow Image* (1884), illustrating the same name as Hawthorne's book. [^3]
-
-![The Snow Image](https://pictures.abebooks.com/inventory/30535794111_2.jpg)[^4]
-
-Church continued to paint and etch women and animals to emphasized Ameria's beauty, harmony, and music away from the destruction of the Civil War[^5] and the loss of innocence of the Gilded Age [^6]. 
 
 
 [^1]: Anonymous, ["Frederick Stuart Church (1842-1924)"](http://americanartgallery.org/artist/readmore/id/74), American Art Gallery, accessed December 9, 2024.
